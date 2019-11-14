@@ -1,11 +1,8 @@
 ## **Recriando a interface do Nubank em React Native**
 
 **Objetivo**
-O objetivo é recriar em React Native a interface do Nubank, contento as animações do app.
 
-## Frontend mobile <a name="mobile"></a>
-O frontend mobile consiste em um aplicativo mobile para Android e iOS, capaz de criar uma "pasta de trabalho" e enviar arquivos, semelhante ao frontend web, porem com toda a experiencia do usuário adaptada ao dispositivos móveis.
-[Código fonte](https://github.com/FelipeAngelini/omnistack6-mobile)
+O objetivo é recriar em React Native a interface do Nubank, contento as animações do app.
 
 **Imagens**
 
@@ -17,8 +14,10 @@ O frontend mobile consiste em um aplicativo mobile para Android e iOS, capaz de 
 **Tecnologias utilizadas**
 
  - Desenvolvido em React Native;
- - Módulo `react-navigation`para realizar a navegação entre as telas;
+ - Módulo `react-navigation` para realizar a navegação entre as telas;
  - Módulo `react-native-qrcode-svg`, componente para apresentar o QRCode;
+ - Módulo `react-native-vector-icons`, pacote de icons para aplicação;
+ - Módulo `react-native-iphone-x-helper`, biblioteca para ajudar no design para aplicações em iPhone X, XS, XS Max & XR;
  
  **Como instalar**
 1. Pré-requisitos -> Ter o NodeJS instalado, um gerenciar de pacotes NPM ou YARN e o React Native CLI configurado;
